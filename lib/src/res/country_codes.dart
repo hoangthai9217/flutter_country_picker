@@ -2697,11 +2697,11 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "South Korea",
+    "name": "Korea",
     "example": "1023456789",
-    "display_name": "South Korea (KR) [+82]",
+    "display_name": "Korea (KR) [+82]",
     "full_example_with_plus_sign": "+821023456789",
-    "display_name_no_e164_cc": "South Korea (KR)",
+    "display_name_no_e164_cc": "Korea (KR)",
     "e164_key": "82-KR-0"
   },
   {

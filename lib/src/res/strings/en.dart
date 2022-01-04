@@ -204,7 +204,7 @@ Map<String, String> en = {
   "SO": "Somalia",
   "ZA": "South Africa",
   "GS": "South Georgia and the South Sandwich Islands",
-  "KR": "South Korea",
+  "KR": "Korea",
   "SS": "South Sudan",
   "ES": "Spain",
   "LK": "Sri Lanka",
